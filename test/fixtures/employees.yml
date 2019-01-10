@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  salary: 1.5
+  rating: 1
+  resigned: false
+
+two:
+  name: MyString
+  salary: 1.5
+  rating: 1
+  resigned: false
